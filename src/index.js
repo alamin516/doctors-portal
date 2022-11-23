@@ -3,11 +3,22 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import AuthProvider from './Contexts/AuthProvider/AuthProvider';
+//{/*query setp-1 */}
+import {QueryClient, QueryClientProvider} from '@tanstack/react-query'; 
+
+//{/*query setp-2 */}
+const queryClient = new QueryClient()
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/*query setp-3 */}
+    <QueryClientProvider client={queryClient}> 
+      <AuthProvider>
+        <App />
+      </AuthProvider>
+    </QueryClientProvider>
   </React.StrictMode>
 );
 
