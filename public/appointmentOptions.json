@@ -1,128 +1,80 @@
 [
-  {
-    "name": "Teeth Orthodontics",
-    "slots": [
-      "08.00 AM - 08.30 AM",
-      "08.30 AM - 09.00 AM",
-      "09.00 AM - 9.30 AM",
-      "09.30 AM - 10.00 AM",
-      "10.00 AM - 10.30 AM",
-      "10.30 AM - 11.00 AM",
-      "11.00 AM - 11.30 AM",
-      "11.30 AM - 12.00 AM",
-      "1.00 PM - 1.30 PM",
-      "1.30 PM - 2.00 PM",
-      "2.00 PM - 2.30 PM",
-      "2.30 PM - 3.00 PM",
-      "3.00 PM - 3.30 PM",
-      "3.30 PM - 4.00 PM",
-      "4.00 PM - 4.30 PM",
-      "4.30 PM - 5.00 PM"
-    ]
-  },
-  {
-    "name": "Cosmetic Dentistry",
-    "slots": [
-      "08.00 AM - 08.30 AM",
-      "08.30 AM - 09.00 AM",
-      "09.00 AM - 9.30 AM",
-      "09.30 AM - 10.00 AM",
-      "10.00 AM - 10.30 AM",
-      "10.30 AM - 11.00 AM",
-      "11.00 AM - 11.30 AM",
-      "11.30 AM - 12.00 AM",
-      "1.00 PM - 1.30 PM",
-      "1.30 PM - 2.00 PM",
-      "2.00 PM - 2.30 PM",
-      "2.30 PM - 3.00 PM",
-      "3.00 PM - 3.30 PM",
-      "3.30 PM - 4.00 PM",
-      "4.00 PM - 4.30 PM",
-      "4.30 PM - 5.00 PM"
-    ]
-  },
-  {
-    "name": "Teeth Cleaning",
-    "slots": [
-      "08.00 AM - 08.30 AM",
-      "08.30 AM - 09.00 AM",
-      "09.00 AM - 9.30 AM",
-      "09.30 AM - 10.00 AM",
-      "10.00 AM - 10.30 AM",
-      "10.30 AM - 11.00 AM",
-      "11.00 AM - 11.30 AM",
-      "11.30 AM - 12.00 AM",
-      "1.00 PM - 1.30 PM",
-      "1.30 PM - 2.00 PM",
-      "2.00 PM - 2.30 PM",
-      "2.30 PM - 3.00 PM",
-      "3.00 PM - 3.30 PM",
-      "3.30 PM - 4.00 PM",
-      "4.00 PM - 4.30 PM",
-      "4.30 PM - 5.00 PM"
-    ]
-  },
-  {
-    "name": "Cavity Protection",
-    "slots": [
-      "08.00 AM - 08.30 AM",
-      "08.30 AM - 09.00 AM",
-      "09.00 AM - 9.30 AM",
-      "09.30 AM - 10.00 AM",
-      "10.00 AM - 10.30 AM",
-      "10.30 AM - 11.00 AM",
-      "11.00 AM - 11.30 AM",
-      "11.30 AM - 12.00 AM",
-      "1.00 PM - 1.30 PM",
-      "1.30 PM - 2.00 PM",
-      "2.00 PM - 2.30 PM",
-      "2.30 PM - 3.00 PM",
-      "3.00 PM - 3.30 PM",
-      "3.30 PM - 4.00 PM",
-      "4.00 PM - 4.30 PM",
-      "4.30 PM - 5.00 PM"
-    ]
-  },
-  {
-    "name": "Pediatric Dental",
-    "slots": [
-      "08.00 AM - 08.30 AM",
-      "08.30 AM - 09.00 AM",
-      "09.00 AM - 9.30 AM",
-      "09.30 AM - 10.00 AM",
-      "10.00 AM - 10.30 AM",
-      "10.30 AM - 11.00 AM",
-      "11.00 AM - 11.30 AM",
-      "11.30 AM - 12.00 AM",
-      "1.00 PM - 1.30 PM",
-      "1.30 PM - 2.00 PM",
-      "2.00 PM - 2.30 PM",
-      "2.30 PM - 3.00 PM",
-      "3.00 PM - 3.30 PM",
-      "3.30 PM - 4.00 PM",
-      "4.00 PM - 4.30 PM",
-      "4.30 PM - 5.00 PM"
-    ]
-  },
-  {
-    "name": "Oral Surgery",
-    "slots": [
-      "08.00 AM - 08.30 AM",
-      "08.30 AM - 09.00 AM",
-      "09.00 AM - 9.30 AM",
-      "09.30 AM - 10.00 AM",
-      "10.00 AM - 10.30 AM",
-      "10.30 AM - 11.00 AM",
-      "11.00 AM - 11.30 AM",
-      "11.30 AM - 12.00 AM",
-      "1.00 PM - 1.30 PM",
-      "1.30 PM - 2.00 PM",
-      "2.00 PM - 2.30 PM",
-      "2.30 PM - 3.00 PM",
-      "3.00 PM - 3.30 PM",
-      "3.30 PM - 4.00 PM",
-      "4.00 PM - 4.30 PM",
-      "4.30 PM - 5.00 PM"
-    ]
-  }
+    {
+        "seller": "Md Alamin",
+        "email": "alamin@gmailcom",
+        "categoryId":"6380a10d345d495b77fc212b",
+        "location":"Dhaka",
+        "price":"500",
+        "resale_price": "",
+        "description": "The second-generation Mondeo was introduced in October 2000. This Mondeo was considerably larger than its predecessor, while the basic chassis and suspension design was carried over from the previous generation along with the CDW27 platform.",
+        "condition": "excellent",
+        "used_time": "5",
+        "img": "https://aaaautoeuimg.vshcdn.net/thumb/300082672_1024x768x95.jpg?05531",
+        "name": "BMW 3"
+    },
+    {
+        "seller": "Md Alamin",
+        "email": "alamin@gmailcom",
+        "categoryId":"6380a10d345d495b77fc212b",
+        "location":"Comilla",
+        "price":"50000",
+        "resale_price": "45000",
+        "description": "The second-generation Mondeo was introduced in October 2000. This Mondeo was considerably larger than its predecessor, while the basic chassis and suspension design was carried over from the previous generation along with the CDW27 platform.",
+        "condition": "excellent",
+        "used_time": "5",
+        "img": "https://aaaautoeuimg.vshcdn.net/thumb/700116445_1024x768x95.jpg?80890",
+        "name": "BMW 1"
+    },
+    {
+        "seller": "Md Alamin",
+        "email": "alamin@gmailcom",
+        "categoryId":"6380a10d345d495b77fc212c",
+        "location":"Rangpur",
+        "price":"50000",
+        "resale_price": "40000",
+        "description": "The second-generation Mondeo was introduced in October 2000. This Mondeo was considerably larger than its predecessor, while the basic chassis and suspension design was carried over from the previous generation along with the CDW27 platform.",
+        "condition": "excellent",
+        "used_time": "5",
+        "img": "https://aaaautoeuimg.vshcdn.net/thumb/1010002972_1_1024x768x95.jpg?69351",
+        "name": "Audi A6"
+    },
+    {
+        "seller": "Md Alamin",
+        "email": "alamin@gmailcom",
+        "categoryId":"6380a10d345d495b77fc212c",
+        "location":"Syhlet",
+        "price":"45500",
+        "resale_price": "35000",
+        "description": "The second-generation Mondeo was introduced in October 2000. This Mondeo was considerably larger than its predecessor, while the basic chassis and suspension design was carried over from the previous generation along with the CDW27 platform.",
+        "condition": "excellent",
+        "used_time": "5",
+        "img": "https://aaaautoeuimg.vshcdn.net/thumb/900369703_1024x768x95.jpg?71322",
+        "name": "Audi A6"
+    },
+    {
+        "seller": "Md Alamin",
+        "email": "alamin@gmailcom",
+        "categoryId":"6380a10d345d495b77fc212a",
+        "location":"Rajshahi",
+        "price":"60000",
+        "resale_price": "45000",
+        "description": "The second-generation Mondeo was introduced in October 2000. This Mondeo was considerably larger than its predecessor, while the basic chassis and suspension design was carried over from the previous generation along with the CDW27 platform.",
+        "condition": "excellent",
+        "used_time": "5",
+        "img": "https://aaaautoeuimg.vshcdn.net/thumb/500031277_1024x768x95.jpg?31201",
+        "name": "Ford Ranger"
+    },
+    {
+        "seller": "Md Alamin",
+        "email": "alamin@gmailcom",
+        "categoryId":"6380a10d345d495b77fc212a",
+        "location":"Khulna",
+        "price":"70000",
+        "resale_price": "",
+        "description": "The second-generation Mondeo was introduced in October 2000. This Mondeo was considerably larger than its predecessor, while the basic chassis and suspension design was carried over from the previous generation along with the CDW27 platform.",
+        "condition": "excellent",
+        "used_time": "5",
+        "img": "https://aaaautoeuimg.vshcdn.net/thumb/300086925_1024x768x95.jpg?47074",
+        "name": "Ford Mondeo"
+    }
 ]

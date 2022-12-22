@@ -53,10 +53,10 @@ const Dashboard = () => {
                                     {
                                         booking.price && !booking.paid &&
                                         <>
-                                        <span className='mr-3'>${booking.price}</span>
-                                        <Link to={`/dashboard/payment/${booking._id}`}>
-                                            <button className='btn bg-red-600 border-none btn-sm'>pay</button>
-                                        </Link>
+                                            <span className='mr-3'>${booking.price}</span>
+                                            <Link to={`/dashboard/payment/${booking._id}`}>
+                                                <button className='btn bg-red-600 border-none btn-sm'>pay</button>
+                                            </Link>
                                         </>
                                     }
                                     {
